@@ -1,0 +1,52 @@
+body{height:100%;
+    padding:0px;
+    margin:0px;}
+
+
+header{background-color:white;}
+
+.profile{height:220px;
+width:175px;}
+
+p{margin:1%;
+text-indent:5%}
+
+footer{margin-top:10%;
+background-color:light;}
+
+.btn{background-color:gray;
+    color:white;}
+    
+    .btn:hover{background-color:white;
+    color:black;
+    border-style:solid;
+    border-width:2px;
+    border-color:black;
+    }
+
+    .pic{height:225px;
+    width:200px;}
+
+    .pic:hover{ outline: 5px solid black;
+        outline-offset: 10px;}
+
+.label{background-color: gray;
+position: relative;
+bottom:45px;
+width:200px;
+text-align:center;
+color:white;}
+
+.picsdiv{float:left;
+margin:2%;}
+
+.linkh:hover{background-color:black;
+    color:white;}
+    
+.footbox{margin-bottom:0px;
+position:relative;
+top:5%;}
+
+#picLabel {
+    background-color: #d3d3d3;
+}
